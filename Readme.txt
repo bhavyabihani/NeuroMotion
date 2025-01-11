@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+##ExoHand
 
-Template Name: Dewi
-Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website to show how the hand works and the acknowledgements.
